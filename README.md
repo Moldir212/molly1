@@ -6,3 +6,12 @@ This repository contains basic Python practice files:
 - strings
 - numbers
 - casting
+- comments
+- data types
+- boolean
+- if-else
+- loops
+- classes
+- functions
+- inheritance
+- lambda
