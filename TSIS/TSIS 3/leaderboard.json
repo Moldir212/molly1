@@ -1,0 +1,53 @@
+[
+  {
+    "name": "Player",
+    "score": 2403,
+    "distance": 684,
+    "coins": 47,
+    "difficulty": "easy",
+    "result": "Crash"
+  },
+  {
+    "name": "Player1",
+    "score": 2173,
+    "distance": 600,
+    "coins": 43,
+    "difficulty": "easy",
+    "result": "Crash"
+  },
+  {
+    "name": "Player1",
+    "score": 2049,
+    "distance": 526,
+    "coins": 42,
+    "difficulty": "hard",
+    "result": "Crash"
+  },
+  
+  {
+    "name": "Player1",
+    "score": 1776,
+    "distance": 549,
+    "coins": 30,
+    "difficulty": "easy",
+    "result": "Crash"
+  },
+  
+  
+  {
+    "name": "Player1",
+    "score": 1691,
+    "distance": 655,
+    "coins": 30,
+    "difficulty": "hard",
+    "result": "Crash"
+  },
+  {
+    "name": "moldir",
+    "score": 1649,
+    "distance": 430,
+    "coins": 33,
+    "difficulty": "hard",
+    "result": "Crash"
+  }
+]
